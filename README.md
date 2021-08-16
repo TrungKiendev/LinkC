@@ -1,5 +1,7 @@
 # LinkC
 Make All Your Link Together
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 # About
 This is actually a link storer/keeper website.It stores all your links to important sites like your website,your portfolio,your social media,etc.You can easily share the link with all your friends and you can even post them on your social media,so that people can know about you from a single place.
